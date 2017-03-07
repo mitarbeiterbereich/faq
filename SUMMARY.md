@@ -1,6 +1,6 @@
 # Einführung
 
-## Registrierung
+## Tipps & Tricks
 
 * [Registrierung und dann?](./de/registrierung-und-dann.md)
 
