@@ -7,6 +7,7 @@
 
 ## Ereignisse
 
+* [Ereignis bearbeiten](./de/ereignis-bearbeiten.md)
 * [Ereignis l&ouml;schen](./de/ereignis-loeschen.md)
 
 ## Zugriff auf mitarbeiterbereich
