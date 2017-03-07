@@ -3,6 +3,7 @@
 ## Tipps & Tricks
 
 * [Registrierung und dann?](./de/registrierung-und-dann.md)
+* [Wo ist die Mitarbeiterjahreskarte?](./de/wo-ist-die-mitarbeiterjahreskarte.md)
 
 ## Ereignisse
 
