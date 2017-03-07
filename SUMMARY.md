@@ -1,5 +1,9 @@
 # Einführung
 
+## Registrierung
+
+* [Registrierung und dann?](./de/registrierung-und-dann.md)
+
 ## Ereignisse
 
 * [Ereignis l&ouml;schen](./de/ereignis-loeschen.md)
